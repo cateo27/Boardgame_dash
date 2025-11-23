@@ -1,0 +1,13 @@
+# Ignorer les gros fichiers CSV
+artists_reduced.csv
+designers_reduced.csv
+publishers_reduced.csv
+user_ratings.csv
+
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Ignorer fichiers Excel et notebooks si tu ne veux pas les pousser
+*.xlsx
+*.ipynb
