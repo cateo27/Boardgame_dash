@@ -11,3 +11,6 @@ __pycache__/
 # Ignorer fichiers Excel et notebooks si tu ne veux pas les pousser
 *.xlsx
 *.ipynb
+
+../*
+
